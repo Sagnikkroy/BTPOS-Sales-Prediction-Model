@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from app.api.endpoints import predict
 
+
 # Create FastAPI instance
 app = FastAPI(
     title="Brocco Cuspred API",
@@ -13,4 +14,4 @@ app.include_router(predict.router)
 
 @app.get("/")
 def home():
-    return {"message": "Brocco Cuspred model is running!"}
+    return {"message": "Brocco Cuspred 1.0 is running!"}
