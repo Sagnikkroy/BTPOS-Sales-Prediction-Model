@@ -1,0 +1,391 @@
+[
+  {
+    "item_id": 1,
+    "name": "Paneer Butter Masala",
+    "category": "Main Course",
+    "price": 280,
+    "ingredients": [
+      {"name": "Paneer", "quantity": "150g"},
+      {"name": "Butter", "quantity": "25g"},
+      {"name": "Tomato", "quantity": "100g"},
+      {"name": "Cream", "quantity": "30ml"},
+      {"name": "Onion", "quantity": "80g"},
+      {"name": "Spices", "quantity": "5g"}
+    ]
+  },
+  {
+    "item_id": 2,
+    "name": "Chicken Biryani",
+    "category": "Main Course",
+    "price": 320,
+    "ingredients": [
+      {"name": "Basmati Rice", "quantity": "150g"},
+      {"name": "Chicken", "quantity": "180g"},
+      {"name": "Yogurt", "quantity": "50g"},
+      {"name": "Spices", "quantity": "6g"},
+      {"name": "Onion", "quantity": "70g"},
+      {"name": "Ghee", "quantity": "10g"}
+    ]
+  },
+  {
+    "item_id": 3,
+    "name": "Veg Fried Rice",
+    "category": "Main Course",
+    "price": 200,
+    "ingredients": [
+      {"name": "Rice", "quantity": "150g"},
+      {"name": "Carrot", "quantity": "30g"},
+      {"name": "Capsicum", "quantity": "25g"},
+      {"name": "Beans", "quantity": "25g"},
+      {"name": "Soy Sauce", "quantity": "10ml"},
+      {"name": "Oil", "quantity": "10ml"}
+    ]
+  },
+  {
+    "item_id": 4,
+    "name": "Dal Tadka",
+    "category": "Main Course",
+    "price": 180,
+    "ingredients": [
+      {"name": "Toor Dal", "quantity": "120g"},
+      {"name": "Ghee", "quantity": "10g"},
+      {"name": "Onion", "quantity": "60g"},
+      {"name": "Tomato", "quantity": "50g"},
+      {"name": "Garlic", "quantity": "5g"},
+      {"name": "Spices", "quantity": "4g"}
+    ]
+  },
+  {
+    "item_id": 5,
+    "name": "Butter Naan",
+    "category": "Bread",
+    "price": 50,
+    "ingredients": [
+      {"name": "Flour", "quantity": "80g"},
+      {"name": "Butter", "quantity": "10g"},
+      {"name": "Yeast", "quantity": "1g"},
+      {"name": "Salt", "quantity": "1g"},
+      {"name": "Water", "quantity": "40ml"}
+    ]
+  },
+  {
+    "item_id": 6,
+    "name": "Tandoori Chicken",
+    "category": "Starter",
+    "price": 260,
+    "ingredients": [
+      {"name": "Chicken", "quantity": "200g"},
+      {"name": "Yogurt", "quantity": "50g"},
+      {"name": "Red Chili Powder", "quantity": "5g"},
+      {"name": "Lemon Juice", "quantity": "10ml"},
+      {"name": "Spices", "quantity": "5g"}
+    ]
+  },
+  {
+    "item_id": 7,
+    "name": "Hakka Noodles",
+    "category": "Main Course",
+    "price": 220,
+    "ingredients": [
+      {"name": "Noodles", "quantity": "150g"},
+      {"name": "Cabbage", "quantity": "30g"},
+      {"name": "Carrot", "quantity": "25g"},
+      {"name": "Soy Sauce", "quantity": "10ml"},
+      {"name": "Capsicum", "quantity": "20g"},
+      {"name": "Oil", "quantity": "10ml"}
+    ]
+  },
+  {
+    "item_id": 8,
+    "name": "Caesar Salad",
+    "category": "Starter",
+    "price": 190,
+    "ingredients": [
+      {"name": "Lettuce", "quantity": "80g"},
+      {"name": "Croutons", "quantity": "20g"},
+      {"name": "Cheese", "quantity": "15g"},
+      {"name": "Mayonnaise", "quantity": "20g"},
+      {"name": "Chicken", "quantity": "60g"}
+    ]
+  },
+  {
+    "item_id": 9,
+    "name": "Masala Dosa",
+    "category": "South Indian",
+    "price": 140,
+    "ingredients": [
+      {"name": "Dosa Batter", "quantity": "150g"},
+      {"name": "Potato", "quantity": "100g"},
+      {"name": "Onion", "quantity": "40g"},
+      {"name": "Oil", "quantity": "10ml"},
+      {"name": "Spices", "quantity": "4g"}
+    ]
+  },
+  {
+    "item_id": 10,
+    "name": "Idli Sambhar",
+    "category": "South Indian",
+    "price": 120,
+    "ingredients": [
+      {"name": "Idli Batter", "quantity": "120g"},
+      {"name": "Toor Dal", "quantity": "60g"},
+      {"name": "Tamarind", "quantity": "10g"},
+      {"name": "Vegetables", "quantity": "50g"},
+      {"name": "Spices", "quantity": "3g"}
+    ]
+  },
+  {
+    "item_id": 11,
+    "name": "Chole Bhature",
+    "category": "North Indian",
+    "price": 210,
+    "ingredients": [
+      {"name": "Chickpeas", "quantity": "120g"},
+      {"name": "Flour", "quantity": "80g"},
+      {"name": "Oil", "quantity": "20ml"},
+      {"name": "Spices", "quantity": "6g"},
+      {"name": "Onion", "quantity": "50g"}
+    ]
+  },
+  {
+    "item_id": 12,
+    "name": "Mutton Rogan Josh",
+    "category": "Main Course",
+    "price": 380,
+    "ingredients": [
+      {"name": "Mutton", "quantity": "180g"},
+      {"name": "Yogurt", "quantity": "40g"},
+      {"name": "Onion", "quantity": "60g"},
+      {"name": "Tomato", "quantity": "50g"},
+      {"name": "Spices", "quantity": "8g"}
+    ]
+  },
+  {
+    "item_id": 13,
+    "name": "Egg Curry",
+    "category": "Main Course",
+    "price": 190,
+    "ingredients": [
+      {"name": "Eggs", "quantity": "2 pcs"},
+      {"name": "Onion", "quantity": "50g"},
+      {"name": "Tomato", "quantity": "50g"},
+      {"name": "Oil", "quantity": "10ml"},
+      {"name": "Spices", "quantity": "5g"}
+    ]
+  },
+  {
+    "item_id": 14,
+    "name": "Fish Fry",
+    "category": "Starter",
+    "price": 260,
+    "ingredients": [
+      {"name": "Fish Fillet", "quantity": "150g"},
+      {"name": "Lemon Juice", "quantity": "10ml"},
+      {"name": "Spices", "quantity": "6g"},
+      {"name": "Oil", "quantity": "15ml"},
+      {"name": "Corn Flour", "quantity": "10g"}
+    ]
+  },
+  {
+    "item_id": 15,
+    "name": "Pasta Alfredo",
+    "category": "Main Course",
+    "price": 270,
+    "ingredients": [
+      {"name": "Pasta", "quantity": "120g"},
+      {"name": "Cream", "quantity": "40ml"},
+      {"name": "Cheese", "quantity": "20g"},
+      {"name": "Garlic", "quantity": "5g"},
+      {"name": "Butter", "quantity": "10g"}
+    ]
+  },
+  {
+    "item_id": 16,
+    "name": "Margarita Pizza",
+    "category": "Main Course",
+    "price": 290,
+    "ingredients": [
+      {"name": "Pizza Base", "quantity": "150g"},
+      {"name": "Cheese", "quantity": "60g"},
+      {"name": "Tomato Sauce", "quantity": "40g"},
+      {"name": "Olive Oil", "quantity": "5ml"},
+      {"name": "Basil", "quantity": "2g"}
+    ]
+  },
+  {
+    "item_id": 17,
+    "name": "French Fries",
+    "category": "Starter",
+    "price": 120,
+    "ingredients": [
+      {"name": "Potato", "quantity": "150g"},
+      {"name": "Oil", "quantity": "30ml"},
+      {"name": "Salt", "quantity": "2g"}
+    ]
+  },
+  {
+    "item_id": 18,
+    "name": "Gulab Jamun",
+    "category": "Dessert",
+    "price": 100,
+    "ingredients": [
+      {"name": "Milk Powder", "quantity": "40g"},
+      {"name": "Sugar Syrup", "quantity": "60ml"},
+      {"name": "Ghee", "quantity": "10ml"},
+      {"name": "Flour", "quantity": "10g"}
+    ]
+  },
+  {
+    "item_id": 19,
+    "name": "Chocolate Brownie",
+    "category": "Dessert",
+    "price": 160,
+    "ingredients": [
+      {"name": "Flour", "quantity": "40g"},
+      {"name": "Butter", "quantity": "20g"},
+      {"name": "Cocoa Powder", "quantity": "10g"},
+      {"name": "Sugar", "quantity": "30g"},
+      {"name": "Egg", "quantity": "1 pc"}
+    ]
+  },
+  {
+    "item_id": 20,
+    "name": "Cold Coffee",
+    "category": "Beverage",
+    "price": 130,
+    "ingredients": [
+      {"name": "Milk", "quantity": "200ml"},
+      {"name": "Coffee", "quantity": "5g"},
+      {"name": "Sugar", "quantity": "10g"},
+      {"name": "Ice Cubes", "quantity": "4 pcs"}
+    ]
+  },
+  {
+    "item_id": 21,
+    "name": "Mojito",
+    "category": "Beverage",
+    "price": 150,
+    "ingredients": [
+      {"name": "Mint Leaves", "quantity": "10 pcs"},
+      {"name": "Lemon Juice", "quantity": "15ml"},
+      {"name": "Soda", "quantity": "150ml"},
+      {"name": "Sugar Syrup", "quantity": "10ml"}
+    ]
+  },
+  {
+    "item_id": 22,
+    "name": "Tomato Soup",
+    "category": "Starter",
+    "price": 130,
+    "ingredients": [
+      {"name": "Tomato", "quantity": "120g"},
+      {"name": "Butter", "quantity": "10g"},
+      {"name": "Garlic", "quantity": "5g"},
+      {"name": "Salt", "quantity": "2g"},
+      {"name": "Pepper", "quantity": "1g"}
+    ]
+  },
+  {
+    "item_id": 23,
+    "name": "Spring Rolls",
+    "category": "Starter",
+    "price": 160,
+    "ingredients": [
+      {"name": "Spring Roll Sheets", "quantity": "2 pcs"},
+      {"name": "Cabbage", "quantity": "30g"},
+      {"name": "Carrot", "quantity": "20g"},
+      {"name": "Soy Sauce", "quantity": "5ml"},
+      {"name": "Oil", "quantity": "15ml"}
+    ]
+  },
+  {
+    "item_id": 24,
+    "name": "Veg Burger",
+    "category": "Fast Food",
+    "price": 180,
+    "ingredients": [
+      {"name": "Burger Bun", "quantity": "1 pc"},
+      {"name": "Potato Patty", "quantity": "80g"},
+      {"name": "Cheese Slice", "quantity": "1 pc"},
+      {"name": "Lettuce", "quantity": "10g"},
+      {"name": "Mayonnaise", "quantity": "10g"}
+    ]
+  },
+  {
+    "item_id": 25,
+    "name": "Chicken Sandwich",
+    "category": "Fast Food",
+    "price": 200,
+    "ingredients": [
+      {"name": "Bread", "quantity": "2 slices"},
+      {"name": "Chicken", "quantity": "80g"},
+      {"name": "Mayonnaise", "quantity": "15g"},
+      {"name": "Lettuce", "quantity": "10g"},
+      {"name": "Cheese", "quantity": "10g"}
+    ]
+  },
+  {
+    "item_id": 26,
+    "name": "Pav Bhaji",
+    "category": "Indian Snack",
+    "price": 160,
+    "ingredients": [
+      {"name": "Pav Bread", "quantity": "2 pcs"},
+      {"name": "Potato", "quantity": "100g"},
+      {"name": "Tomato", "quantity": "50g"},
+      {"name": "Butter", "quantity": "20g"},
+      {"name": "Spices", "quantity": "5g"}
+    ]
+  },
+  {
+    "item_id": 27,
+    "name": "Veg Pulao",
+    "category": "Main Course",
+    "price": 190,
+    "ingredients": [
+      {"name": "Basmati Rice", "quantity": "150g"},
+      {"name": "Peas", "quantity": "30g"},
+      {"name": "Carrot", "quantity": "20g"},
+      {"name": "Beans", "quantity": "20g"},
+      {"name": "Spices", "quantity": "5g"}
+    ]
+  },
+  {
+    "item_id": 28,
+    "name": "Rasmalai",
+    "category": "Dessert",
+    "price": 120,
+    "ingredients": [
+      {"name": "Milk", "quantity": "150ml"},
+      {"name": "Sugar", "quantity": "20g"},
+      {"name": "Paneer", "quantity": "40g"},
+      {"name": "Cardamom", "quantity": "1g"},
+      {"name": "Saffron", "quantity": "0.5g"}
+    ]
+  },
+  {
+    "item_id": 29,
+    "name": "Vegetable Manchurian",
+    "category": "Main Course",
+    "price": 230,
+    "ingredients": [
+      {"name": "Cabbage", "quantity": "50g"},
+      {"name": "Carrot", "quantity": "30g"},
+      {"name": "Corn Flour", "quantity": "10g"},
+      {"name": "Soy Sauce", "quantity": "5ml"},
+      {"name": "Oil", "quantity": "15ml"}
+    ]
+  },
+  {
+    "item_id": 30,
+    "name": "Lassi",
+    "category": "Beverage",
+    "price": 100,
+    "ingredients": [
+      {"name": "Curd", "quantity": "200ml"},
+      {"name": "Sugar", "quantity": "20g"},
+      {"name": "Cardamom", "quantity": "1g"},
+      {"name": "Water", "quantity": "30ml"}
+    ]
+  }
+]
